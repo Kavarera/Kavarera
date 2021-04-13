@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kavarera
 
-I work here as a programmer, I like to share ideas. For now i'm learning Android 😁😁!!! 
+I work here as a programmer, I'd like to share ideas. For now i'm learning Android 😁😁!!! 
 
 👀 I’m interested in
 - C#
@@ -11,8 +11,8 @@ I work here as a programmer, I like to share ideas. For now i'm learning Android
 
 ## DID YOU KNOW?
 - 🌄 I love hiking and taking pictures
-- 💻 I love to play games specially Valorant
-- 💡 I love to share ideas
+- 💻 I playing games especially Valorant
+- 💡 I love sharing ideas
     
 ## 📫 How to reach me
 - [Instagram](https://www.instagram.com/r_kavarera)
