@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavarera
+# 👋 Hi, I’m Kavarera
 
 I work here as a programmer, I like to share ideas. For now i'm learning Android 😁😁!!! 
 
@@ -8,6 +8,11 @@ I work here as a programmer, I like to share ideas. For now i'm learning Android
 - LUA
 - JAVA
 - PYTHON
+
+## DID YOU KNOW?
+- 🌄 I love hiking and taking pictures
+- 💻 I love to play games specially Valorant
+- 💡 I love to share ideas
     
 ## 📫 How to reach me
 - [Instagram](https://www.instagram.com/r_kavarera)
