@@ -8,6 +8,7 @@ I work here as a programmer, I'd like to share ideas. For now i'm learning Andro
 - LUA
 - JAVA
 - PYTHON
+- KOTLIN
 
 ## DID YOU KNOW?
 - 🌄 I love hiking and taking pictures
