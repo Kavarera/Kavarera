@@ -1,25 +1,9 @@
-# 👋 Hi, I’m Kavarera
+# 👋 Hi, I’m Kavarera aka [X](www.instageram.com/indeed.justanx)
+My name is Rafli Iskandar Kavarera, you can call me Kavarera. I'm a student at UPN Veteran Yogyakarta. Right now im learning flutter.
 
-I work here as a programmer, I'd like to share ideas. For now i'm learning Android 😁😁!!! 
-
-👀 I’m interested in
-- C#
-- CPP
-- LUA
-- JAVA
-- PYTHON
-- KOTLIN
-
-## DID YOU KNOW?
-- 🌄 I love hiking and taking pictures
-- 💻 I playing games especially Valorant
-- 💡 I love sharing ideas
+## Language & Tools
+![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&logoColor=yellow)&emsp;![CSharp](https://img.shields.io/badge/CSharp-success.svg?style=for-the-badge&logo=CSharp)&emsp;![CPP](https://img.shields.io/badge/CPP-blue.svg?style=for-the-badge&logo=cplusplus)&emsp;![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge&logo=Kotlin)&emsp;![MySql](https://img.shields.io/badge/MySql-white.svg?style=for-the-badge&logo=Mysql)&emsp;![Dart](https://img.shields.io/badge/dart-informational.svg?style=for-the-badge&logo=Dart)&emsp;![flutter](https://img.shields.io/badge/Flutter-blue.svg?style=for-the-badge&logo=flutter)<br/>
+![VSC](https://img.shields.io/badge/Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&emsp;&emsp;![AS](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=android%20studio)&emsp;![](https://img.shields.io/badge/Visual%20Studio-blueviolet.svg?style=for-the-badge&logo=visual%20studio&logoColor=violet)
     
 ## 📫 How to reach me
-- [Instagram](https://www.instagram.com/r_kavarera)
-- [Discord](https://discord.gg/PAJXv8x2)
-
-<!---
-Kavarera/Kavarera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Instagram](https://img.shields.io/badge/indeed.justanx-blueviolet.svg?style=for-the-badge&logo=instagram)](www.instagram.com/indeed.justanx)&emsp;[![discord](https://img.shields.io/badge/Discord-blue.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/PAJXv8x2)
