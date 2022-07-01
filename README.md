@@ -6,7 +6,7 @@ My name is Rafli Iskandar Kavarera, you can call me Kavarera. I'm a student at U
 ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&emsp;&emsp;![AS](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=android%20studio)&emsp;![](https://img.shields.io/badge/Visual%20Studio-blueviolet.svg?style=for-the-badge&logo=visual%20studio&logoColor=violet)&emsp;![dotnet](https://img.shields.io/badge/.net-blueviolet.svg?style=for-the-badge&logo=dotnet)
     
 ## 📫 How to reach me
-[![Instagram](https://img.shields.io/badge/indeed.justanx-blueviolet.svg?style=for-the-badge&logo=instagram)](www.instagram.com/indeed.justanx)&emsp;[![discord](https://img.shields.io/badge/Discord-blue.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/PAJXv8x2)
+[![Instagram](https://img.shields.io/badge/indeed.justanx-blueviolet.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/indeed.justanx)&emsp;[![discord](https://img.shields.io/badge/Discord-blue.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/PAJXv8x2)
 
 <h1 align="center">About my github</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavarera&layout=compact&show_icons=true&theme=dark"/>&emsp;
