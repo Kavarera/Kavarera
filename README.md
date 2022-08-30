@@ -9,4 +9,4 @@ My name is Rafli Iskandar Kavarera, you can call me Kavarera. I'm a student at U
 [![Instagram](https://img.shields.io/badge/indeed.justanx-blueviolet.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/indeed.justanx)&emsp;[![discord](https://img.shields.io/badge/Discord-blue.svg?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/awJCCZNcua)
 
 <h1 align="center">About my github</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavarera&layout=compact&show_icons=true&theme=dark"/>&emsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavarera&layout=compact&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api?username=kavarera&layout=compact&show_icons=true&theme=tokyonight"/>&emsp;
