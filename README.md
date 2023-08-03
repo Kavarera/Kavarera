@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavarera&label=Profile%20views&color=0e75b6&style=flat" alt="kavarera" /> </p>
 
-- 🔭 I’m currently working on **MikrotikApp**
+- 🔭 I’m currently working on **ToDoApp**
 
-- 🌱 I’m currently learning **web fullstack**
+- 🌱 I’m currently learning **Flutter**
 
 - ⚡ Fun fact **no fun**
 
