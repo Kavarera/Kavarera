@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavarera&label=Profile%20views&color=0e75b6&style=flat" alt="kavarera" /> </p>
 
-- 🔭 I’m currently working on **<a href="https://github.com/Kavarera/todo-app" target="_blank" style="color: white;">ToDoApp</a>**
+- 🔭 I’m currently working on **<a href="https://github.com/Kavarera/todo-app">ToDoApp</a>**
 
 - 🌱 I’m currently learning **Flutter**
 
