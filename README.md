@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavarera&label=Profile%20views&color=0e75b6&style=flat" alt="kavarera" /> </p>
 
-- 🔭 I’m currently working on **<a href="https://github.com/Kavarera/todo-app">ToDoApp</a>**
+- 🎮 I enjoy playing video games when I need to unwind.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌃 I'm most active during the night.
 
-- ⚡ Fun fact **no fun**
+- 🌱 Currently, my focus is on Android development.
+
+- ⚡ Fun fact: I absolutely adore cheese! 🧀🧀🧀🧀 *A LOT* 🤤🤤🤤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
