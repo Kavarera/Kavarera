@@ -11,7 +11,7 @@
 
 - 🌱 Currently, my focus is on Android development.
 
-- ⚡ Fun fact: I absolutely adore cheese! 🧀🧀🧀🧀 *A LOT* 🤤🤤🤤
+- ⚡ Fun fact: I absolutely adore cheese! 🧀🧀🧀🧀 **A LOT** 🤤🤤🤤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
